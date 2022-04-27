@@ -1,0 +1,7 @@
+django
+fastapi
+uvicorn
+mysqlclient
+pydantic
+pydantic[dotenv]
+jinja2
