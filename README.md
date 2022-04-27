@@ -1,0 +1,1 @@
+# fastapi-with-django-models-cookiecutter
