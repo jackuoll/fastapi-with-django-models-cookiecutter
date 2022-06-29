@@ -7,6 +7,9 @@ class Settings(BaseSettings):
     db_user: str = "username"
     db_pass: str = "password"
 
+    static_folder: str = "web/static"
+    templates_folder: str = "web/templates"
+
     class Config:
         env_file = '.env'
 
